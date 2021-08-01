@@ -70,6 +70,10 @@
   color: inherit;
 }
 
+.navbar__menu-link:hover {
+  color: rgb(20, 84, 168);
+}
+
 .article {
   display: flex;
   flex-direction: column;
@@ -143,6 +147,11 @@
   width: 176px;
   padding: 14px 23px;
   box-sizing: border-box;
+}
+
+.main-button:hover {
+  background-color: #3c20da;
+  color: white;
 }
 
 .main-button_location_hiw {
@@ -326,6 +335,11 @@
   color: #3E3F43;
 }
 
+.categories__list-button:hover {
+  border: 1px solid rgb(4, 179, 179);
+  color: rgb(4, 179, 179);
+}
+
 .categories__list-image {
   position: absolute;
 }
@@ -401,6 +415,10 @@
   font-size: 14px;
   line-height: 19px;
   color: #8D8D8D;
+}
+
+.footer__column-link:hover {
+  color: rgb(20, 84, 168);
 }
 
 .logo_location_footer {
