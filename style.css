@@ -90,7 +90,7 @@
   left: 102px;
 }
 
-.article_about_section-1 {
+.article_about_section-top {
   position: absolute;
   width: 448px;
   height: 180px;
@@ -98,7 +98,7 @@
   right: 100px;
 }
 
-.article_about_section-2 {
+.article_about_section-bot {
   position: absolute;
   width: 648px;
   height: 131px;
@@ -194,7 +194,7 @@
 
 }
 
-.section-header__about {
+.section-header_about {
   margin: 128px 140px 0 60px;
 }
 
@@ -305,17 +305,17 @@
   border-top-right-radius: 100px;
 }
 
-.categories__list-item_row1 {
+.categories__list-item_col1 {
   background-color: #F9BDBD;
   margin-right: 56px;
 }
 
-.categories__list-item_row2 {
+.categories__list-item_col2 {
   background-color: #F7DEA6;
   margin-right: 56px;
 }
 
-.categories__list-item_row3 {
+.categories__list-item_col3 {
   background-color: #A8DCEC;
 }
 
